@@ -1,0 +1,3 @@
+/dataset/*.jpg
+/yolo/**/*.txt
+/yolo/**/*.jpg
